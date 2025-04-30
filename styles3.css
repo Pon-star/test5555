@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    height: 100vh;
+    /*  background-image: url('kandinsky-download-1745387823810.png'); Замените на URL вашего изображения 
+    
+    background-size: cover;  Изображение будет покрывать весь экран 
+    background-position: center; Центрируем изображение 
+    background-repeat: no-repeat; Не повторяем изображение */
+    background-color: bisque;
+}
+
+h1 {
+    color: #46e6f5;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+button {
+    background-color: bisque;
+    text-align: center;
+    border-radius: 100px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #99c6f7;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1, h3, p {
+    margin: 0;
+    color: #46e6f5;
+}
